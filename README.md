@@ -4,6 +4,8 @@
 The vscode theme which is both dark and high contrasted.
 It has a carefully designed color palette.
 
+Thank you people for **120+** downloads
+
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/code-reaper08/FocusPro?style=for-the-badge) [![GitHub issues](https://img.shields.io/github/issues/code-reaper08/FocusPro?style=for-the-badge)](https://github.com/code-reaper08/FocusPro/issues) [![GitHub stars](https://img.shields.io/github/stars/code-reaper08/FocusPro?style=for-the-badge)](https://github.com/code-reaper08/FocusPro/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/code-reaper08/FocusPro?style=for-the-badge) ![Lines of code](https://img.shields.io/tokei/lines/github/code-reaper08/FocusPro?style=for-the-badge) ![License](https://img.shields.io/badge/License%20-MIT-yellow?style=for-the-badge) 
 
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/vishwar.focuspro?style=for-the-badge) ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/vishwar.focuspro?style=for-the-badge) ![Visual Studio Marketplace Release Date](https://img.shields.io/visual-studio-marketplace/release-date/vishwar.focuspro?style=for-the-badge) ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/vishwar.focuspro?style=for-the-badge)
